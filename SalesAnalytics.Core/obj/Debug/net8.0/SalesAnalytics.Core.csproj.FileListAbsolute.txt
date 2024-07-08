@@ -1,0 +1,14 @@
+C:\Sujit\PersonalProject\SalesAnalytics.Core\bin\Debug\net8.0\SalesAnalytics.Core.deps.json
+C:\Sujit\PersonalProject\SalesAnalytics.Core\bin\Debug\net8.0\SalesAnalytics.Core.runtimeconfig.json
+C:\Sujit\PersonalProject\SalesAnalytics.Core\bin\Debug\net8.0\SalesAnalytics.Core.dll
+C:\Sujit\PersonalProject\SalesAnalytics.Core\bin\Debug\net8.0\SalesAnalytics.Core.pdb
+C:\Sujit\PersonalProject\SalesAnalytics.Core\obj\Debug\net8.0\SalesAnalytics.Core.csproj.AssemblyReference.cache
+C:\Sujit\PersonalProject\SalesAnalytics.Core\obj\Debug\net8.0\SalesAnalytics.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sujit\PersonalProject\SalesAnalytics.Core\obj\Debug\net8.0\SalesAnalytics.Core.AssemblyInfoInputs.cache
+C:\Sujit\PersonalProject\SalesAnalytics.Core\obj\Debug\net8.0\SalesAnalytics.Core.AssemblyInfo.cs
+C:\Sujit\PersonalProject\SalesAnalytics.Core\obj\Debug\net8.0\SalesAnalytics.Core.csproj.CoreCompileInputs.cache
+C:\Sujit\PersonalProject\SalesAnalytics.Core\obj\Debug\net8.0\SalesAnalytics.Core.dll
+C:\Sujit\PersonalProject\SalesAnalytics.Core\obj\Debug\net8.0\refint\SalesAnalytics.Core.dll
+C:\Sujit\PersonalProject\SalesAnalytics.Core\obj\Debug\net8.0\SalesAnalytics.Core.pdb
+C:\Sujit\PersonalProject\SalesAnalytics.Core\obj\Debug\net8.0\SalesAnalytics.Core.genruntimeconfig.cache
+C:\Sujit\PersonalProject\SalesAnalytics.Core\obj\Debug\net8.0\ref\SalesAnalytics.Core.dll
