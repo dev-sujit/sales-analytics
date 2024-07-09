@@ -1,0 +1,14 @@
+.vs
+.vs/
+
+SalesAnalytics.Api/bin
+SalesAnalytics.Api/obj
+
+SalesAnalytics.Application/bin
+SalesAnalytics.Application/obj
+
+SalesAnalytics.Core/bin
+SalesAnalytics.Core/obj
+
+SalesAnalytics.Infrastructure/bin
+SalesAnalytics.Infrastructure/obj
