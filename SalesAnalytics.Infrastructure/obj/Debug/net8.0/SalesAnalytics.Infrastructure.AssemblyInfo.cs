@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SalesAnalytics.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+86db0bc027aa939792f596c1295a9738d5fe6cc6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2df3aabe80cce78b44ba5b62ae8ca0f41c061a49")]
 [assembly: System.Reflection.AssemblyProductAttribute("SalesAnalytics.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SalesAnalytics.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
