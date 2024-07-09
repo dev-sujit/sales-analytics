@@ -44,6 +44,15 @@ builder.Services.AddSwaggerGen(c =>
     }});
 });
 
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("CorsPolicy",
+        builder => builder
+            .AllowAnyOrigin() // Update this to allow specific origins in production
+            .AllowAnyMethod()
+            .AllowAnyHeader());
+});
+
 // Configure Entity Framework and SQL Server
 builder.Services.AddDbContext<ISalesDbContext, SalesDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
@@ -87,6 +96,8 @@ builder.Services.AddControllers();
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 
 var app = builder.Build();
+
+app.UseCors("CorsPolicy");
 
 //app.UseMiddleware<RequestResponseLoggingMiddleware>();
 app.UseMiddleware<RequestLoggingMiddleware>();
