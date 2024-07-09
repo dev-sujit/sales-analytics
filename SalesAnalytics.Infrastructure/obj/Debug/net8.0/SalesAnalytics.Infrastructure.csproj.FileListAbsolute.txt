@@ -9,6 +9,7 @@ C:\Sujit\PersonalProject\SalesAnalytics.Infrastructure\obj\Debug\net8.0\SalesAna
 C:\Sujit\PersonalProject\SalesAnalytics.Infrastructure\obj\Debug\net8.0\SalesAnalytics.Infrastructure.AssemblyInfoInputs.cache
 C:\Sujit\PersonalProject\SalesAnalytics.Infrastructure\obj\Debug\net8.0\SalesAnalytics.Infrastructure.AssemblyInfo.cs
 C:\Sujit\PersonalProject\SalesAnalytics.Infrastructure\obj\Debug\net8.0\SalesAnalytics.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Sujit\PersonalProject\SalesAnalytics.Infrastructure\obj\Debug\net8.0\SalesAnalytics.Infrastructure.sourcelink.json
 C:\Sujit\PersonalProject\SalesAnalytics.Infrastructure\obj\Debug\net8.0\SalesAna.F40906DD.Up2Date
 C:\Sujit\PersonalProject\SalesAnalytics.Infrastructure\obj\Debug\net8.0\SalesAnalytics.Infrastructure.dll
 C:\Sujit\PersonalProject\SalesAnalytics.Infrastructure\obj\Debug\net8.0\refint\SalesAnalytics.Infrastructure.dll

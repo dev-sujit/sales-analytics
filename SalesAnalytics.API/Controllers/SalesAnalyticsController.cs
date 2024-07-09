@@ -47,7 +47,7 @@ namespace SalesAnalytics.API.Controllers
             }
             catch (Exception ex)
             {
-                var errorResponse = _commonResponseService.CreateErrorResponse<List<SaleRecord>>($"An error occurred while fetching Trends:{ex.Message}");
+                var errorResponse = _commonResponseService.CreateErrorResponse<List<SaleRecord>>($"An error occurred while fetching  Trends:{ex.Message}");
                 return StatusCode(errorResponse.StatusCode, errorResponse);
             }
         }

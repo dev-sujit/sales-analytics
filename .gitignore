@@ -1,16 +1,56 @@
-.vs
-.vs/
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
 
-SalesAnalytics.Api/bin
-SalesAnalytics.Api/obj
+# Visual Studio folders
+.vscode/
+.vscode/*
 
-SalesAnalytics.Application/bin
-SalesAnalytics.Application/obj
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
 
-SalesAnalytics.Core/bin
-SalesAnalytics.Core/obj
+# Mono Auto Generated Files
+mono_crash.*
 
-SalesAnalytics.Infrastructure/bin
-SalesAnalytics.Infrastructure/obj
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
 
-.vs/SalesAnalytics/DesignTimeBuild/.dtbcache.v2
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+.history/
+
+# Other ignored files
+*.log
+*.vs
+
+# SalesAnalytics.Api/bin/
+# SalesAnalytics.Api/obj/
+
+# SalesAnalytics.Application/bin/
+# SalesAnalytics.Application/obj/
+
+# SalesAnalytics.Core/bin/
+# SalesAnalytics.Core/obj/
+
+# SalesAnalytics.Infrastructure/bin/
+# SalesAnalytics.Infrastructure/obj/
+
+# SalesAnalytics.Tests/bin/
+# SalesAnalytics.Tests/obj/

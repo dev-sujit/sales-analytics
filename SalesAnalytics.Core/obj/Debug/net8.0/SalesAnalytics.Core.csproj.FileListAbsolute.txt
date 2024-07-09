@@ -7,6 +7,7 @@ C:\Sujit\PersonalProject\SalesAnalytics.Core\obj\Debug\net8.0\SalesAnalytics.Cor
 C:\Sujit\PersonalProject\SalesAnalytics.Core\obj\Debug\net8.0\SalesAnalytics.Core.AssemblyInfoInputs.cache
 C:\Sujit\PersonalProject\SalesAnalytics.Core\obj\Debug\net8.0\SalesAnalytics.Core.AssemblyInfo.cs
 C:\Sujit\PersonalProject\SalesAnalytics.Core\obj\Debug\net8.0\SalesAnalytics.Core.csproj.CoreCompileInputs.cache
+C:\Sujit\PersonalProject\SalesAnalytics.Core\obj\Debug\net8.0\SalesAnalytics.Core.sourcelink.json
 C:\Sujit\PersonalProject\SalesAnalytics.Core\obj\Debug\net8.0\SalesAnalytics.Core.dll
 C:\Sujit\PersonalProject\SalesAnalytics.Core\obj\Debug\net8.0\refint\SalesAnalytics.Core.dll
 C:\Sujit\PersonalProject\SalesAnalytics.Core\obj\Debug\net8.0\SalesAnalytics.Core.pdb

@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalesAnalytics.Application"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalesAnalytics.API", "SalesAnalytics.API\SalesAnalytics.API.csproj", "{110D7578-FB92-4DF5-88AA-E9AA59512ADF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalesAnalytics.Tests", "SalesAnalytics.Tests\SalesAnalytics.Tests.csproj", "{DBF3C7EC-37C6-4738-944A-EBB4A98120AC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{110D7578-FB92-4DF5-88AA-E9AA59512ADF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{110D7578-FB92-4DF5-88AA-E9AA59512ADF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{110D7578-FB92-4DF5-88AA-E9AA59512ADF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DBF3C7EC-37C6-4738-944A-EBB4A98120AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBF3C7EC-37C6-4738-944A-EBB4A98120AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBF3C7EC-37C6-4738-944A-EBB4A98120AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBF3C7EC-37C6-4738-944A-EBB4A98120AC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

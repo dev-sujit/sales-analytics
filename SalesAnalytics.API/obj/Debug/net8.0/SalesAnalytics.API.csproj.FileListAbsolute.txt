@@ -35,6 +35,7 @@ C:\Sujit\PersonalProject\SalesAnalytics.API\bin\Debug\net8.0\Microsoft.OpenApi.d
 C:\Sujit\PersonalProject\SalesAnalytics.API\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
 C:\Sujit\PersonalProject\SalesAnalytics.API\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
 C:\Sujit\PersonalProject\SalesAnalytics.API\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Sujit\PersonalProject\SalesAnalytics.API\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Sujit\PersonalProject\SalesAnalytics.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Sujit\PersonalProject\SalesAnalytics.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Sujit\PersonalProject\SalesAnalytics.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
@@ -120,8 +121,8 @@ C:\Sujit\PersonalProject\SalesAnalytics.API\bin\Debug\net8.0\SalesAnalytics.Appl
 C:\Sujit\PersonalProject\SalesAnalytics.API\bin\Debug\net8.0\SalesAnalytics.Core.dll
 C:\Sujit\PersonalProject\SalesAnalytics.API\bin\Debug\net8.0\SalesAnalytics.Infrastructure.dll
 C:\Sujit\PersonalProject\SalesAnalytics.API\bin\Debug\net8.0\SalesAnalytics.Application.pdb
-C:\Sujit\PersonalProject\SalesAnalytics.API\bin\Debug\net8.0\SalesAnalytics.Infrastructure.pdb
 C:\Sujit\PersonalProject\SalesAnalytics.API\bin\Debug\net8.0\SalesAnalytics.Core.pdb
+C:\Sujit\PersonalProject\SalesAnalytics.API\bin\Debug\net8.0\SalesAnalytics.Infrastructure.pdb
 C:\Sujit\PersonalProject\SalesAnalytics.API\obj\Debug\net8.0\SalesAnalytics.API.csproj.AssemblyReference.cache
 C:\Sujit\PersonalProject\SalesAnalytics.API\obj\Debug\net8.0\SalesAnalytics.API.GeneratedMSBuildEditorConfig.editorconfig
 C:\Sujit\PersonalProject\SalesAnalytics.API\obj\Debug\net8.0\SalesAnalytics.API.AssemblyInfoInputs.cache
@@ -129,6 +130,7 @@ C:\Sujit\PersonalProject\SalesAnalytics.API\obj\Debug\net8.0\SalesAnalytics.API.
 C:\Sujit\PersonalProject\SalesAnalytics.API\obj\Debug\net8.0\SalesAnalytics.API.csproj.CoreCompileInputs.cache
 C:\Sujit\PersonalProject\SalesAnalytics.API\obj\Debug\net8.0\SalesAnalytics.API.MvcApplicationPartsAssemblyInfo.cs
 C:\Sujit\PersonalProject\SalesAnalytics.API\obj\Debug\net8.0\SalesAnalytics.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Sujit\PersonalProject\SalesAnalytics.API\obj\Debug\net8.0\SalesAnalytics.API.sourcelink.json
 C:\Sujit\PersonalProject\SalesAnalytics.API\obj\Debug\net8.0\staticwebassets.build.json
 C:\Sujit\PersonalProject\SalesAnalytics.API\obj\Debug\net8.0\staticwebassets.development.json
 C:\Sujit\PersonalProject\SalesAnalytics.API\obj\Debug\net8.0\staticwebassets\msbuild.SalesAnalytics.API.Microsoft.AspNetCore.StaticWebAssets.props
@@ -143,4 +145,3 @@ C:\Sujit\PersonalProject\SalesAnalytics.API\obj\Debug\net8.0\refint\SalesAnalyti
 C:\Sujit\PersonalProject\SalesAnalytics.API\obj\Debug\net8.0\SalesAnalytics.API.pdb
 C:\Sujit\PersonalProject\SalesAnalytics.API\obj\Debug\net8.0\SalesAnalytics.API.genruntimeconfig.cache
 C:\Sujit\PersonalProject\SalesAnalytics.API\obj\Debug\net8.0\ref\SalesAnalytics.API.dll
-C:\Sujit\PersonalProject\SalesAnalytics.API\bin\Debug\net8.0\Newtonsoft.Json.dll
