@@ -26,5 +26,15 @@ namespace SalesAnalytics.Infrastructure
         {
             _context.Dispose();
         }
+
+        public async Task<int> CommitAsync()
+        {
+            return await _context.SaveChangesAsync();
+        }
+
+        public void Rollback()
+        {
+            _context.ChangeTracker.Entries().ToList().ForEach(x => x.Reload());
+        }
     }
 }

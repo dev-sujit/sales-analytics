@@ -4,5 +4,7 @@
     {
         ISaleRecordRepository SaleRecordRepository { get; }
         Task CompleteAsync();
+        Task<int> CommitAsync();
+        void Rollback();
     }
 }
